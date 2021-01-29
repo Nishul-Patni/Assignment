@@ -7,5 +7,5 @@ count = 0
 for string in noun_lst:
     print(string, ", ", end="")
     count = count+1
+print(noun_lst)
 print("\n", count)
-
